@@ -5,7 +5,7 @@
 
 <p> Segue as ultimas alterações realizadas durante o curso de desenvolmento Web da Origamid, tentei detalhar e deixar o mais rico o possivel visualmente.</p>
     
-    <strong>
+<strong>
     Conhecimentos aprendidos e aplicados durante essa etapa
   * HTML
   * CSS
@@ -13,7 +13,7 @@
   * Boas praticas
   * Teorias das cores e complementos
   * Padronização de estrutura
-    </strong>
+</strong>
 
 <img src="Docs/Introducao.png">
 <img src="Docs/Portifolio.png">
