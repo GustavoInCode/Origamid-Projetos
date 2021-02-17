@@ -19,5 +19,4 @@
 
 <img src="Docs/Introducao.png">
 <img src="Docs/Portifolio.png">
-<img src="Docs/qualidade.png">
-<img src="Docs/rodape.png">
+<img src="Docs/Qualidade-Rodape.png">
