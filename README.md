@@ -7,13 +7,15 @@
     
 <strong>
     Conhecimentos aprendidos e aplicados durante essa etapa
+</strong>
+
   * HTML
   * CSS
   * UX/UI
   * Boas praticas
   * Teorias das cores e complementos
   * Padronização de estrutura
-</strong>
+
 
 <img src="Docs/Introducao.png">
 <img src="Docs/Portifolio.png">
