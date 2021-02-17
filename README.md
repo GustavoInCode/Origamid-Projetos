@@ -1,7 +1,7 @@
 # Origamid-Projetos
  repository with adapted projects from the Origamid course
 
-<h1> Progesso do primeiro Projeto Origamid - Bikcraft </h1>
+<h1> Progresso do primeiro Projeto Origamid - Bikcraft </h1>
 
 <p> Segue as ultimas alterações realizadas durante o curso de desenvolmento Web da Origamid, tentei detalhar e deixar o mais rico o possivel visualmente.</p>
     
